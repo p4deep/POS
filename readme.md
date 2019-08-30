@@ -1,1 +1,1 @@
-## About Ultimate POS
+## About Point of Sale (POS)
